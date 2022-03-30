@@ -1,0 +1,4 @@
+script.sh
+#!/bin/bash
+# A simple bash script
+pwd /root/alx-system_engineering-devops/0x00-shell_basics
